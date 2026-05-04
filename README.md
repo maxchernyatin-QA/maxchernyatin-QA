@@ -50,9 +50,15 @@ Python
 
 Pytest
 
-Virtual Studio Code
+Requests
 
-Seleniun Webdriver
+Selenium Webdriver
+
+Playwright
+
+PyCharm
+
+Virtual Studio Code
 
 Английский: B1
 
